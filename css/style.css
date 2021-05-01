@@ -1,0 +1,20 @@
+body {
+  background-color: #3c3e43; }
+
+nav {
+  background-color: #686868; }
+  nav .navbar__link--dark {
+    color: #3c3e43; }
+  nav .navbar__link--white {
+    color: whitesmoke; }
+  nav .navbar__link--orange {
+    color: orange; }
+
+.container-fluid .card__text--small {
+  font-size: 10px; }
+
+.container-fluid .card__text--medium {
+  font-size: 20px; }
+
+.container-fluid .card__text--big {
+  font-size: 50px; }

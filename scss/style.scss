@@ -1,0 +1,41 @@
+@import "colores";
+@import "tamaños";
+
+body {
+    background-color: $dark;
+    
+}
+
+
+nav {
+    background-color: $light;
+        .navbar__link--dark {
+            color: $dark; 
+            
+        }
+
+        .navbar__link--white {
+            color: $cool-white ;
+        
+        }
+
+        .navbar__link--orange {
+            color: $cool-orange;
+            
+        }
+  
+    
+
+}
+.container-fluid {
+    
+    .card__text--small{
+        font-size: $small;
+    } 
+    .card__text--medium {
+        font-size: $medium;
+    }
+    .card__text--big {
+        font-size: $big;
+    }
+}
